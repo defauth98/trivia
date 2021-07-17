@@ -5,7 +5,7 @@
 
 **Descrição**
 
-Projeto realizado durante o curso de desenvolvimento de software na Trybe, feito em grupo. Com o objetivo de usar o Redux para gerenciar o estado da aplicação. Consistem em um app de quiz onde você terá uma pergunta que vem de uma API, e quatro alternativas.
+Projeto realizado durante o curso de desenvolvimento de software na Trybe, feito em grupo. Com o objetivo de usar o Redux para gerenciar o estado da aplicação. Consiste em um app de quiz onde você terá uma pergunta que vem de uma API, e quatro alternativas.
 
 ### :nut_and_bolt: Tecnologias
 
