@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trivia/static/css/main.645746b5.chunk.css",
+    "main.js": "/trivia/static/js/main.05fc90a3.chunk.js",
+    "main.js.map": "/trivia/static/js/main.05fc90a3.chunk.js.map",
+    "runtime-main.js": "/trivia/static/js/runtime-main.36b073f9.js",
+    "runtime-main.js.map": "/trivia/static/js/runtime-main.36b073f9.js.map",
+    "static/js/2.656dbc86.chunk.js": "/trivia/static/js/2.656dbc86.chunk.js",
+    "static/js/2.656dbc86.chunk.js.map": "/trivia/static/js/2.656dbc86.chunk.js.map",
+    "index.html": "/trivia/index.html",
+    "precache-manifest.6eab505543666787087d282ccea45d5a.js": "/trivia/precache-manifest.6eab505543666787087d282ccea45d5a.js",
+    "service-worker.js": "/trivia/service-worker.js",
+    "static/css/main.645746b5.chunk.css.map": "/trivia/static/css/main.645746b5.chunk.css.map",
+    "static/js/2.656dbc86.chunk.js.LICENSE.txt": "/trivia/static/js/2.656dbc86.chunk.js.LICENSE.txt",
+    "static/media/Audioslave.ogg": "/trivia/static/media/Audioslave.ef0d030f.ogg",
+    "static/media/showDoMilhao.ogg": "/trivia/static/media/showDoMilhao.17580169.ogg",
+    "static/media/showLogo.png": "/trivia/static/media/showLogo.159c8188.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36b073f9.js",
+    "static/js/2.656dbc86.chunk.js",
+    "static/css/main.645746b5.chunk.css",
+    "static/js/main.05fc90a3.chunk.js"
+  ]
+}
